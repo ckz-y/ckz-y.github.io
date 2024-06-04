@@ -1,0 +1,59 @@
+ul {
+    list-style-type: none;
+    padding-left: 10%;
+    overflow: hidden;
+    background-color: #fff0f5;
+    margin: 0px;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 15px;
+    font-style: normal;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: #434343;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #c7efcf;
+}
+
+h1 {
+    color: black;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 15px;
+    font-style: normal;
+}
+
+p {
+    color: black;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 15px;
+    font-style: normal;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #efefef;
+    color: #434343;
+}
+
+.source-sans-3-h1 {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 15px;
+  font-style: normal;
+}
