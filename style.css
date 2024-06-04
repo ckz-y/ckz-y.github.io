@@ -1,12 +1,14 @@
 ul {
     list-style-type: none;
-    padding-left: 10%;
+    padding-left: 25%;
     overflow: hidden;
-    background-color: #fff0f5;
     margin: 0px;
     font-family: "Source Sans 3", sans-serif;
     font-optical-sizing: auto;
     font-weight: 15px;
+    border-width: 1px;
+    border-color: #b7b7b7;
+    border-bottom-style: solid;
     font-style: normal;
 }
   
@@ -18,12 +20,13 @@ li a {
     display: block;
     color: #434343;
     text-align: center;
-    padding: 14px 16px;
+    padding: 15px 15px;
+    padding-left: 0px;
     text-decoration: none;
 }
 
 li a:hover {
-    color: #c7efcf;
+    color: #c27ba0;
 }
 
 h1 {
@@ -46,9 +49,9 @@ p {
     font-style: normal;
 }
 body {
-    font-family: Arial, Helvetica, sans-serif;
     background-color: #efefef;
     color: #434343;
+    margin: 0px;
 }
 
 .source-sans-3-h1 {
